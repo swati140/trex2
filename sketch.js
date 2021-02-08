@@ -23,8 +23,8 @@ function preload(){
   obstacle1 = loadImage("obstacle1.png");
   obstacle2 = loadImage("obstacle2.png");
   obstacle3 = loadImage("obstacle3.png");
-  obstacle4 = loadImage("obstacle4.png");
-  obstacle5 = loadImage("obstacle5.png");
+  obstacle4 = loadImage("obstacle6.png");
+  obstacle5 = loadImage("obstacle6.png");
   obstacle6 = loadImage("obstacle6.png");
   
   restartImg = loadImage("restart.png")
